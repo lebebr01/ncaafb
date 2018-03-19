@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^.*\.sublime-project$
+^.*\.sublime-workspace$
+README.Rmd
+^packrat/
+^\.Rprofile$
+^docs$
+^cran-comments\.md$
