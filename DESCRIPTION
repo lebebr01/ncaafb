@@ -17,5 +17,5 @@ Depends:
 Suggests:
 URL: https://github.com/lebebr01/collfootball
 BugReports: https://github.com/lebebr01/collfootball/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 7.1.1
 Maintainer: Brandon LeBeau <lebebr01+collfootball@gmail.com>
