@@ -4,7 +4,8 @@ Title: College Football Team and Coach Data
 Description: College football team and coach data obtained from multiple sources.
 Authors@R: c(
     person("Brandon", "LeBeau", email = "lebebr01+collfootball@gmail.com",
-       role = c("aut", "cre")),
+       role = c("aut", "cre"),
+       comment = c(ORCID = "0000-0002-1265-8761")),
     person("Andrew", "Zieffler", role = c("aut")),
     person("Kyle", "Knickodem", role = c("aut"))
        )

@@ -8,3 +8,4 @@ README.Rmd
 ^\.Rprofile$
 ^docs$
 ^cran-comments\.md$
+^data\-raw$
