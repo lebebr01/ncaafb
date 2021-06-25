@@ -13,7 +13,7 @@ Version: 0.1
 License: CC0
 LazyData: true
 Depends:
-    R (>= 3.3.0)
+    R (>= 4.0)
 Suggests:
 URL: https://github.com/lebebr01/collfootball
 BugReports: https://github.com/lebebr01/collfootball/issues
