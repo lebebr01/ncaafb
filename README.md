@@ -12,6 +12,8 @@ remotes::install_github("lebebr01/collfootball")
 
 ## Details
 
+*Work in Progress* 
+
 This package contains data for college football teams and coaches. Data included are:
 
 * `coaches`:
